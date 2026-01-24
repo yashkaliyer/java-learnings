@@ -1,6 +1,5 @@
 package collections;
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 public class FilterEvenNumbers {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
